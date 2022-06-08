@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a programmer and actually I'm studing sistem engienering on the university Francisco Jose de Caldas.
+I'm a programmer and actually I'm studing sistem engienering.
 
 - 💼 My actual and future proyects are or will be available on my [github](https://github.com/Michael-Steven-Jimenez-contreras)
 - 📫 How to reach me: msjimenezc@correo.udistrital.edu.co and michaeljimenezcontreras1@gmail.com
