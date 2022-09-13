@@ -28,5 +28,5 @@ I'm a programmer and actually I'm studing sistem engienering.
 ## Dev stuffs
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Michael-Steven-Jimenez-contreras&show_icons=true" />    &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Steven-Jimenez-contreras)
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Michael-Jimenez-C&show_icons=true" />    &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Jimenez-C)
