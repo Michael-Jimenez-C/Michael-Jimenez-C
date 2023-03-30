@@ -22,7 +22,7 @@ I'm a programmer and actually I'm studing systems engienering.
 
 ## Interests
 
-- I'm interested on machine learning and artificial neuronal networks, y like everithing about IA.
+- I'm interested on machine learning and artificial neuronal networks, and like everithing about IA.
 - I like the data science.
 
 ## Dev stuffs
