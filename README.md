@@ -25,7 +25,7 @@ I'm a programmer and actually I'm studing systems engienering.
 - I'm interested on machine learning and artificial neuronal networks, and like everithing about IA.
 - I like the data science.
 
-## Dev stuffs
+## Dev stats
 
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Michael-Jimenez-C&show_icons=true" />    &nbsp;
