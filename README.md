@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a programmer and actually I'm studing systems engienering.
+I'm a developer and actually I'm studing systems engienering.
 
-- 💼 My actual and future proyects are or will be available on my [github](https://github.com/Michael-Steven-Jimenez-contreras)
+- 💼 My actual and future proyects are or will be available on my [github](https://github.com/Michael-Steven-Jimenez-contreras), also the university projects.
 - 📫 How to reach me: msjimenezc@udistrital.edu.co and michaeljimenezcontreras1@gmail.com
 
 ## Interests
