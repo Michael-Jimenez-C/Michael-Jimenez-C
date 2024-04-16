@@ -176,6 +176,10 @@ I'm a developer and actually I'm studing systems engienering.
 
 <!------------------------------------------------------------------------------------------------------------------------------>
 
+## Other pages
+<a href="https://gitlab.com/Michael-Jimenez-C">GitLab</a>
+<a href="https://gitlab.com/Michael-Jimenez-C">GitLab</a>
+
 ###
 
 <div align="center">
