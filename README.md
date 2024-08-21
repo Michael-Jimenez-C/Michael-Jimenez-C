@@ -177,12 +177,20 @@ I'm a developer and actually I'm studing systems engienering.
 <!------------------------------------------------------------------------------------------------------------------------------>
 
 ## Other pages
-<a href="https://gitlab.com/Michael-Jimenez-C">GitLab</a>
+
+<a href="https://app.hackthebox.com/profile/1754256" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/1754256" alt="Hack The Box">
+  </a>
+
 <a href="https://gitlab.com/Michael-Jimenez-C">GitLab</a>
 
-###
+
+
+## Stats
 
 <div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Jimenez-C&radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true&custom_title=Actividad" height="300" alt="activity-graph graph"  />
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=Michael-Jimenez-C&show_icons=true<&theme=one_dark_pro&disable_animations=false&locale=en" alt="michael-jimenez-c" height="250"/>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Jimenez-C&layout=donut&locale=en&hide_title=false&theme=one_dark_pro" alt="languages graph"  height="250"/>
