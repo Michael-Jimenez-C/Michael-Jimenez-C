@@ -13,6 +13,7 @@ I'm a developer and actually I'm studing systems engienering.
 - I like the data science.
 - I love to develop projects, and learn new tecnologies.
 - Python.
+
 <div align="center">
   <a href="mjimenezcontreras@acm.org">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -172,6 +173,8 @@ I'm a developer and actually I'm studing systems engienering.
   <img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>
 </a>
 
+### Github gist
+https://gist.github.com/Michael-Jimenez-C
 
 
 ## Stats
