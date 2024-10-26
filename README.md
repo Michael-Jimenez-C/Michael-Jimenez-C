@@ -183,6 +183,7 @@ https://gist.github.com/Michael-Jimenez-C
 
 
 ## Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michael-Jimenez-C&theme=onedark)](https://github.com/Michael-Jimenez-C/github-profile-troph)
 
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-Jimenez-C&radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true&custom_title=Actividad" height="300" alt="activity-graph graph"  />
