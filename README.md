@@ -15,17 +15,17 @@ I'm a developer and actually I'm studing systems engienering.
 - Python.
 
 <div align="center">
-  <a href="mailto:mjimenezcontreras@acm.org">
-  <img src="https://img.shields.io/static/v1?message=ACM.org&logo=gmail&label=mjimenezcontreras&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:dev.mjimenez@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=dev.mjimenez&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a  href="mailto:michaeljimenezcontreras1@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/michael-steven-jim%C3%A9nez-contreras-6116b5249/">
+  <a href="https://www.linkedin.com/in/jimenezmichael">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href = 'mailto:michaeljimenezcontreras1@outlook.com'>
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="https://discordapp.com/users/michaelj1831" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=Michael&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -34,9 +34,6 @@ I'm a developer and actually I'm studing systems engienering.
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -164,12 +161,6 @@ I'm a developer and actually I'm studing systems engienering.
 <a href="https://app.hackthebox.com/profile/1754256" target="_blank">
     <img src="https://app.hackthebox.com/images/logos/htb_ic2.svg" width = 50px></img><span> </span><img src="https://www.hackthebox.eu/badge/image/1754256" alt="Hack The Box">
   </a>
-
-
-### Gitlab
-<a href="https://gitlab.com/Michael-Jimenez-C">
-  <img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" height="70"></img>
-</a>
 
 ### Kaggle
 <img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>
