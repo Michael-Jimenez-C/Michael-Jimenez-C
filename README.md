@@ -18,7 +18,7 @@ I am a systems engineer and data scientist.
   <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=dev.mjimenez&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a  href="mailto:michaeljimenezcontreras1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message= &logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jimenezmichael">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
