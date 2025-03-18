@@ -1,6 +1,6 @@
 # About me Michael Jimenez
 
-I'm a developer and actually I'm studing systems engienering.
+I'm a developer and currently I'm studing systems engienering.
 
 - 💼 My current and future projects will be available on this GitHub, as well as those from the university.
 - 📫 How to reach me: msjimenezc@udistrital.edu.co and michaeljimenezcontreras1@gmail.com
