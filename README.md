@@ -1,10 +1,9 @@
 # About me Michael Jimenez
 
-I'm a developer and currently I'm studing systems engienering.
+I am a systems engineer and data scientist.
 
 - 💼 My current and future projects will be available on this GitHub, as well as those from the university.
-- 📫 How to reach me: msjimenezc@udistrital.edu.co and michaeljimenezcontreras1@gmail.com
-- I'm currently making good progress learning ML
+- 📫 How to reach me: dev.mjimenez@gmail.com and michaeljimenezcontreras1@gmail.com
 - My Kaggle profile : [msjimenezc](https://www.kaggle.com/msjimenezc)
 
 ## Interests
@@ -19,7 +18,7 @@ I'm a developer and currently I'm studing systems engienering.
   <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=dev.mjimenez&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a  href="mailto:michaeljimenezcontreras1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message= &logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jimenezmichael">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -79,9 +78,6 @@ I'm a developer and currently I'm studing systems engienering.
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
