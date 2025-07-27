@@ -162,7 +162,7 @@ I am a systems engineer and data scientist.
 <img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>
 
 <a href="https://www.kaggle.com/msjimenezc">
-  <img src="https://mai--kaggle-card--wdnwqn8bw5k9.code.run/msjimenezc?pass=None" width="600" height="300"></img>
+  <img src="https://kaggle-profile-card.vercel.app/msjimenezc" width="600" height="300"></img>
 </a>
 
 ### Github gist
